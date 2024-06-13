@@ -1,0 +1,58 @@
+*{
+    font-family: Open Sans;
+}
+
+body{
+    background-color: #fae4cd;
+    padding: 10px 150px;
+}
+
+h1{
+    text-align: center;
+    font-size: 40px;
+}
+
+div{
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    background-color: #ffffff;
+    border-radius: 8px;
+    padding: 20px;
+}
+
+
+.download{
+    background-color: #ffffff;
+    border-color:#0b5ec0;
+    border-radius: 6px;
+    padding: 5px 25px;
+    margin-right: 20px;
+
+}
+
+
+.register{
+    background-color: #0b5ec0;
+    color: #ffffff;
+    border: none;
+    border-radius: 6px;
+    height: 35px;
+    width: 100px;
+    float: right;
+    margin-right: 20px;
+}
+
+input{
+    width: 550px;
+    height: 30px;
+    border-radius: 6px;
+    margin-right: 20px;
+}
+
+
+a{
+    text-decoration: none;
+    color: #141414;
+    margin-right: 20px;
+}
