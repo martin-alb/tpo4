@@ -2,14 +2,19 @@
     font-family: Open Sans;
 }
 
+.azul{
+    color: #0b5ec0;
+}
+
 body{
     background-color: #fae4cd;
-    padding: 10px 150px;
+    padding: 10px 250px;
 }
 
 h1{
     text-align: center;
     font-size: 40px;
+    margin-bottom: 100px;
 }
 
 div{
@@ -18,9 +23,16 @@ div{
     align-items: center;
     background-color: #ffffff;
     border-radius: 8px;
-    padding: 20px;
+    padding: 10px;
+    margin-bottom: 100px;
 }
 
+img{
+    width: 30px;
+    height: 30px;
+    margin-left: 10px;
+    margin-right: 20px;
+}
 
 .download{
     background-color: #ffffff;
@@ -37,9 +49,7 @@ div{
     color: #ffffff;
     border: none;
     border-radius: 6px;
-    height: 35px;
-    width: 100px;
-    float: right;
+    padding: 5px 20px;
     margin-right: 20px;
 }
 
@@ -47,7 +57,7 @@ input{
     width: 550px;
     height: 30px;
     border-radius: 6px;
-    margin-right: 20px;
+    margin-right: 50px;
 }
 
 
